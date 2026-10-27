@@ -1,0 +1,16 @@
+building_id,total_rows,valid_readings,missing_readings,negative_readings,unique_timestamps,completeness_pct
+Hog_assembly_Colette,17544,17544,0.0,0.0,17544,100.0
+Hog_assembly_Dona,17544,17544,0.0,0.0,17544,100.0
+Hog_assembly_Jasmine,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Casandra,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Donnie,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Jewel,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Jordan,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Madge,17544,17544,0.0,0.0,17544,100.0
+Hog_education_Rachael,17544,17544,0.0,0.0,17544,100.0
+Hog_food_Morgan,17544,17544,0.0,0.0,17544,100.0
+Hog_industrial_Jeremy,17544,17544,0.0,0.0,17544,100.0
+Hog_industrial_Joanne,17544,17544,0.0,0.0,17544,100.0
+Hog_industrial_Mariah,17544,17544,0.0,0.0,17544,100.0
+Hog_industrial_Quentin,17544,17544,0.0,0.0,17544,100.0
+Hog_lodging_Francisco,17544,17544,0.0,0.0,17544,100.0

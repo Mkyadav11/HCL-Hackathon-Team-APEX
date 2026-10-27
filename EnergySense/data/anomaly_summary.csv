@@ -1,0 +1,4 @@
+anomaly_type,severity,event_count,affected_buildings,avg_deviation_pct,max_deviation_pct
+flatline,review,2,2,,
+high_consumption,high,20485,15,124.0,821.97
+high_consumption,medium,21012,15,42.75,60.0

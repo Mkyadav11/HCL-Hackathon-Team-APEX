@@ -1,0 +1,16 @@
+building,valid_test_hours,MAE,RMSE,WAPE_percent,uncertainty_margin,interval_coverage_percent
+Panther_retail_Felix,720,5.751,8.011,7.33,19.728,96.39
+Panther_parking_Asia,720,1.793,4.482,6.45,5.401,86.67
+Panther_office_Graham,720,3.557,6.959,5.18,10.652,91.39
+Panther_lodging_Jorge,720,1.932,2.84,4.55,5.521,92.36
+Panther_parking_Mellissa,720,1.358,1.967,9.2,2.48,87.92
+Panther_assembly_Carrol,720,3.167,5.33,16.02,8.302,88.75
+Panther_lodging_Cornelia,720,1.338,1.919,6.16,5.301,97.78
+Panther_office_Jesus,720,4.832,7.875,6.56,17.203,93.75
+Panther_office_Taryn,720,4.092,6.742,5.18,12.402,90.0
+Panther_education_Annetta,716,10.175,17.881,9.82,15.903,80.17
+Panther_lodging_Janice,720,3.02,3.999,4.62,7.361,93.75
+Panther_education_Ivan,706,11.427,20.897,8.4,19.684,85.55
+Panther_parking_Charlene,720,3.152,7.023,7.05,7.701,87.92
+Bull_office_Marco,716,3.001,5.56,8.97,10.0,95.11
+Bobcat_education_Toni,718,1.996,3.783,8.09,5.25,91.23

@@ -1,0 +1,48 @@
+
+PERSON 2: DATABASE, DATA ENGINEERING & ANOMALY DETECTION
+========================================================
+
+DATA PREPARATION
+- Selected 15 electricity-metered buildings from the Hog site.
+- Data period: 2016-01-01 to 2017-12-31.
+- Readings per building: 17,544 hourly observations.
+- Total readings loaded into MySQL: 263,160.
+- Missing, negative, and duplicate readings in the selected data: 0.
+
+DATABASE
+- Database: energy_analytics
+- Tables: buildings, energy_readings, anomaly_events
+
+ANOMALY DETECTION
+- High-consumption events: 41,497.
+- High-severity events: 20,485.
+- Medium-severity events: 21,012.
+- Flatline candidates: 2, requiring review.
+- Detection rule: consumption more than 30% above baseline.
+- The baseline uses median consumption grouped by building
+  and hour of week.
+
+INVESTIGATION FINDINGS
+- Hog_education_Donnie had the most high-consumption events: 6,544.
+- Donnie's monthly consumption rose from May and remained elevated
+  through September in both 2016 and 2017.
+- This suggests a recurring seasonal pattern that should be
+  considered when refining anomaly detection.
+- Extreme percentage deviations should be reviewed because a low
+  baseline can inflate the percentage.
+
+LIMITATIONS
+- The baseline was calculated using the full two-year period,
+  including observations later than the reading being assessed.
+- The 30% threshold is exploratory and may flag expected seasonal
+  changes as anomalies.
+- Energy units have not yet been confirmed.
+- Anomaly events are candidates for investigation, not confirmed faults.
+
+EXPORTED OUTPUTS
+- anomaly_summary.csv
+- data_quality_report.csv
+- high_consumption_events.csv
+- flatline_candidates.csv
+- building_dashboard_summary.csv
+- donnie_monthly_comparison.csv

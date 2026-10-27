@@ -1,0 +1,16 @@
+building,recent_week_total,baseline_weekly_median,change_percent,status,recommendation
+Panther_retail_Felix,10901.561,13449.813,-18.95,Consumption decreased,Consumption is 18.9% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_parking_Asia,4650.797,4672.101,-0.46,No large weekly change,No change of 15% or more was detected. Continue monitoring.
+Panther_office_Graham,7777.903,12671.946,-38.62,Consumption decreased,Consumption is 38.6% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_lodging_Jorge,5447.611,6557.585,-16.93,Consumption decreased,Consumption is 16.9% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_parking_Mellissa,2412.145,2489.36,-3.1,No large weekly change,No change of 15% or more was detected. Continue monitoring.
+Panther_assembly_Carrol,2217.729,3985.07,-44.35,Consumption decreased,Consumption is 44.3% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_lodging_Cornelia,2135.012,2696.521,-20.82,Consumption decreased,Consumption is 20.8% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_office_Jesus,8898.917,13907.284,-36.01,Consumption decreased,Consumption is 36.0% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_office_Taryn,9641.861,14197.34,-32.09,Consumption decreased,Consumption is 32.1% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_education_Annetta,12057.726,20101.779,-40.02,Consumption decreased,Consumption is 40.0% below the baseline. Check schedules and occupancy to understand what changed.
+Panther_lodging_Janice,11466.853,10264.221,11.72,No large weekly change,No change of 15% or more was detected. Continue monitoring.
+Panther_education_Ivan,21839.414,23823.397,-8.33,No large weekly change,No change of 15% or more was detected. Continue monitoring.
+Panther_parking_Charlene,7329.914,7490.646,-2.15,No large weekly change,No change of 15% or more was detected. Continue monitoring.
+Bull_office_Marco,4263.0,6362.0,-32.99,Consumption decreased,Consumption is 33.0% below the baseline. Check schedules and occupancy to understand what changed.
+Bobcat_education_Toni,3863.0,4251.62,-9.14,No large weekly change,No change of 15% or more was detected. Continue monitoring.

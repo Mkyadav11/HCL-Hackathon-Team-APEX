@@ -1,0 +1,16 @@
+building,calibration_hours,evaluation_hours,MAE,old_coverage_percent,calibrated_coverage_percent,old_average_interval_width,calibrated_average_interval_width,calibration_margin
+Panther_office_Graham,360,360,14.091,61.11,61.39,20.004,20.464,10.232
+Panther_office_Taryn,360,360,14.578,65.56,66.67,21.004,22.844,11.422
+Panther_office_Jesus,360,360,19.186,73.61,73.89,47.409,48.429,24.215
+Bobcat_education_Toni,359,359,3.255,88.02,76.88,14.5,7.304,3.652
+Panther_education_Annetta,358,358,30.027,46.93,77.09,43.208,94.098,47.049
+Panther_assembly_Carrol,360,360,13.468,67.5,79.44,38.408,48.509,24.255
+Panther_lodging_Janice,360,360,14.683,66.11,84.44,36.487,47.401,23.701
+Panther_education_Ivan,351,351,22.066,68.38,91.45,45.129,134.426,67.213
+Panther_parking_Mellissa,360,360,0.846,98.06,94.72,4.961,3.841,1.92
+Panther_parking_Asia,360,360,0.665,93.61,95.83,3.601,4.601,2.3
+Bull_office_Marco,356,356,10.949,87.64,96.63,44.0,69.0,34.5
+Panther_parking_Charlene,360,360,1.69,95.83,97.5,11.202,13.423,6.711
+Panther_retail_Felix,360,360,15.517,92.22,98.06,74.428,102.11,51.055
+Panther_lodging_Cornelia,360,360,2.881,100.0,100.0,39.608,65.033,32.516
+Panther_lodging_Jorge,360,360,6.664,99.17,100.0,43.208,83.056,41.528

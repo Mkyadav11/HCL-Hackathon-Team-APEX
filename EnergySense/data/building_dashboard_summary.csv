@@ -1,0 +1,16 @@
+building_id,site_id,primary_space_usage,reading_count,average_reading,peak_reading,anomaly_count
+Hog_education_Donnie,Hog,Education,17544,84.50846089831285,311.129,6544
+Hog_education_Casandra,Hog,Education,17544,1079.2975564295527,2261.611,6091
+Hog_industrial_Quentin,Hog,Manufacturing/industrial,17544,109.84116638166823,320.259,5550
+Hog_assembly_Colette,Hog,Entertainment/public assembly,17544,360.4161639876884,1286.352,5321
+Hog_education_Rachael,Hog,Education,17544,74.87986713406342,170.82299999999995,3779
+Hog_industrial_Jeremy,Hog,Manufacturing/industrial,17544,44.25118986548121,99.703,3253
+Hog_industrial_Mariah,Hog,Manufacturing/industrial,17544,16.561571477428167,36.976,3060
+Hog_industrial_Joanne,Hog,Manufacturing/industrial,17544,150.33738674190607,340.9190000000001,2556
+Hog_education_Jewel,Hog,Education,17544,65.33117675558628,132.187,1338
+Hog_assembly_Dona,Hog,Entertainment/public assembly,17544,293.6240260487924,645.649,1326
+Hog_education_Madge,Hog,Education,17544,89.80351493388055,158.113,793
+Hog_education_Jordan,Hog,Education,17544,106.70183088235282,219.761,631
+Hog_assembly_Jasmine,Hog,Entertainment/public assembly,17544,85.04352986776075,157.718,622
+Hog_lodging_Francisco,Hog,Lodging/residential,17544,161.1916985864112,325.005,365
+Hog_food_Morgan,Hog,Food sales and service,17544,63.40516797765598,145.25799999999995,270

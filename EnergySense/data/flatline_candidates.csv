@@ -1,0 +1,3 @@
+anomaly_id,building_id,detected_at,anomaly_type,actual_value,baseline_value,deviation_pct,severity,details
+41498,Hog_assembly_Colette,2016-05-31 11:00:00,flatline,322.813,,,review,"Unchanged reading for 125 consecutive hourly observations, from 2016-05-26 07:00:00 to 2016-05-31 11:00:00"
+41499,Hog_assembly_Dona,2016-05-31 11:00:00,flatline,190.674,,,review,"Unchanged reading for 125 consecutive hourly observations, from 2016-05-26 07:00:00 to 2016-05-31 11:00:00"
