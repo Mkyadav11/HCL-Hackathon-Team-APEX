@@ -1,0 +1,5 @@
+anomaly_type,severity,event_count,affected_buildings
+flatline,review,2,2
+high_consumption,high,20485,15
+high_consumption,medium,21012,15
+1
